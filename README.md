@@ -1,2 +1,2 @@
-#  Base javascript
+# Base javascript
 javascript cơ bản
