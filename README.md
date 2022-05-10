@@ -1,2 +1,2 @@
-# javascript-c-b-n
+#  Base javascript
 javascript cơ bản
