@@ -1,0 +1,7 @@
+git clone  kéo project từ git hub xuống máy 
+
+git add .
+git comit -am "message guiwe lên"
+git push
+
+git pull  đưa tất cả thay đổi từ máy lên git hub
